@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning Practitioner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshashank84" alt="gshashank84" /> </p>
 
