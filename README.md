@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Image Similarity Detection**
 
-- 🌱 I’m currently learning **Statistics in Machine Learning**
-
 - 👯 I’m looking to collaborate on open ideas in **FinTech**
 
 - 🤝 I’m looking for help with **Kaggle Competitions**
