@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Kaggle Competitions**
 
-- 💬 Ask me about **ML / Geo Politics / Stock Market**
+- 💬 Ask me about **ML / DL / Statistics**
 
 - 📫 How to reach me **gshashank84@gmail.com**
 
