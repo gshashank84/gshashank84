@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **Image Similarity Detection**
 
-- 👯 I’m looking to collaborate on open ideas in **FinTech**
-
-- 🤝 I’m looking for help with **Kaggle Competitions**
-
 - 💬 Ask me about **ML / DL / Statistics**
 
 - 📫 How to reach me **gshashank84@gmail.com**
