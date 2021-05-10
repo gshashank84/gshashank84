@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshashank84" alt="gshashank84" /> </p>
 
+[![Gmail Badge](https://img.shields.io/badge/-gshashank84@gmail.com-c14436?style=oval&logo=Gmail&logoColor=black&link=mailto:gshashank84@gmail.com)](mailto:gshashank84@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-shashank-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gshashank84/)](https://www.linkedin.com/in/gshashank84/) [![Github Badge](https://img.shields.io/badge/-shashank-black?style=flat&logo=github&logoColor=white&link=https://github.com/gshashank84/)](https://www.github.com/gshashank84/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://s)](https://gshashank84.github.io/) [![Kaggle Badge](https://img.shields.io/badge/portfolio-Kaggle-blue?style=flat&link=http://s)](https://www.kaggle.com/gshashank84/) [![Medium Badge](https://img.shields.io/badge/portfolio-Medium-darkgreen?style=flat&link=http://s)](https://medium.com/@gshashank84)
+
 - 🔭 I’m currently working on **Image Similarity Detection**
 
 - 💬 Ask me about **ML / DL / Statistics**
@@ -11,10 +13,4 @@
 
 - ⚡ The biggest STRENGTH or the biggest OBSTACLE is **A BELIEF**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gshashank84&show_icons=true" alt="gshashank84" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/gshashank84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gshashank84" height="30" width="30" /></a>
-<a href="https://kaggle.com/gshashank84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="gshashank84" height="30" width="30" /></a>
-<a href="https://medium.com/@gshashank84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gshashank84" height="30" width="30" /></a>
-</p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gshashank84&show_icons=true" alt="gshashank84" /></p>
