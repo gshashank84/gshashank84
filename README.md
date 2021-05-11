@@ -13,4 +13,7 @@
 
 - ⚡ The biggest STRENGTH or the biggest OBSTACLE is **A BELIEF**
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gshashank84&layout=compact)](https://github.com/gshashank84)
+ 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gshashank84&show_icons=true" alt="gshashank84" /></p>
+
