@@ -54,4 +54,3 @@
 
 ---
 
-[![Shashank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gshashank84&theme=react-dark&hide_border=true)](https://github.com/gshashank84/)
